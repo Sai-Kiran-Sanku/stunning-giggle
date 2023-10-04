@@ -1,2 +1,3 @@
-# stunning-giggle
-Dasmoto's Arts &amp; Crafts
+
+## Dasmoto's Arts &amp; Crafts.
+This is a basic web structure using HTML and CSS
